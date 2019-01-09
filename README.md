@@ -1,4 +1,4 @@
-# Neural-Net-from-scratch
+# Neural Net from scratch
 
 This section shows the implementation of Neural Network from scratch in Python (3.6) without the use of any high-level machine learning libraries, to get a better understanding of how the neural net works from the foundation.
 
