@@ -5,11 +5,8 @@ This section shows the implementation of Neural Network from scratch in python w
 All the steps required for building a fully connected neural network including functions for forward propogation, backward propogation, batch gradient descent, regularization as well as training and testing the data. Using this model we also have the option to tune the hyper-parameters i.e. learning rate, number of epochs, batch size, regularization parameter, etc. to get better accuracies.
 
 We consider the following three classic examples with our neural net developed:
-* Iris dataset: For classification of spices of Iris (Iris setosa, Iris virginica and Iris versicolor) in the file: NeuralNet-Iris.py
-Dataset available at: https://archive.ics.uci.edu/ml/datasets/iris
+* Iris dataset: For classification of spices of Iris (Iris setosa, Iris virginica and Iris versicolor) in the file: NeuralNet-Iris.py <br/> Dataset available at: https://archive.ics.uci.edu/ml/datasets/iris
 
-* MNIST dataset: For classification of numbers (0-9) in the file: NeuralNet-MNIST.py
-Dataset available at: http://yann.lecun.com/exdb/mnist/
+* MNIST dataset: For classification of numbers (0-9) in the file: NeuralNet-MNIST.py <br/> Dataset available at: http://yann.lecun.com/exdb/mnist/
 
-* Shapes dataset: For classification of shapes (circle, square, triangle) in the file: NeuralNet-Shapes.py
-Dataset available at: https://www.kaggle.com/cactus3/basicshapes/version/1
+* Shapes dataset: For classification of shapes (circle, square, triangle) in the file: NeuralNet-Shapes.py <br/> Dataset available at: https://www.kaggle.com/cactus3/basicshapes/version/1
